@@ -1,0 +1,19 @@
+.container {
+    margin-bottom: 48px;
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 48px;
+}
+
+.gridLeft {
+    display: inline-block;
+    text-align: left;
+}
+
+.gridRight {
+    display: inline-block;
+    text-align: right;
+}
